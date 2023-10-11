@@ -1,7 +1,7 @@
 /* my custom styles*/
 
 body {
-    background-color: gray;
+    background-color: white;
 }
 
 /* NavBar Decoration*/
@@ -10,6 +10,8 @@ body {
     margin-right: 30px;
 }
 
+
 .mynav a:hover {
     border-bottom: 1px solid red;
 }
+
