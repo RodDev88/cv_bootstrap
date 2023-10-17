@@ -71,3 +71,24 @@ body {
         margin-top: 0%;
     }
 }
+
+@media only screen and (max-width: 768px) {
+    .carousel-caption {
+        margin-top: 5%;
+        padding: 25px;
+    }
+
+    .carousel-caption h5 {
+        font-size: 20px;
+    }
+    
+    .carousel-caption p {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .carousel-caption {
+        margin-bottom: 0%;
+    }
+}
