@@ -1,7 +1,18 @@
 /* my custom styles*/
 
-body {
-    background-color: white;
+
+/*Typography*/
+
+h2 {
+    font-size: 40px;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+/*Spacing*/
+
+.gap {
+    padding: 70px 0px;
 }
 
 /* NavBar Decoration*/
