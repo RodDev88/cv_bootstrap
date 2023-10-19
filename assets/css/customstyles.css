@@ -3,10 +3,24 @@
 
 /*Typography*/
 
+h5 {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 h2 {
     font-size: 40px;
     color: gray;
     margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+
 }
 
 /*Spacing*/
