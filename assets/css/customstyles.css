@@ -128,3 +128,14 @@ footer {
 .copy {
     padding-top: 30px;
 }
+
+.rrss-i {
+    color: white;
+    font-size: 35px;
+    margin: 8px;
+    padding-top:10px;
+}
+
+.rrss-i a {
+    color: white;
+}
