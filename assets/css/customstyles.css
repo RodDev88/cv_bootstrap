@@ -117,3 +117,14 @@ p {
         margin-bottom: 0%;
     }
 }
+
+/* FOOTER*/
+
+footer {
+    background: #444;
+    padding: 30px;
+}
+
+.copy {
+    padding-top: 30px;
+}
